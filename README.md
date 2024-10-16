@@ -28,44 +28,7 @@ The **CRM Application for Laptop Rentals** is designed to streamline the process
 6. **Performance Tracking**
    - The system monitors rental trends, customer interactions, and satisfaction levels, providing critical insights into business performance. This data can be used to adjust and improve service offerings over time.
 
-## Installation
-
-To run the CRM Application for Laptop Rentals, follow these steps:
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/laptop-rentals-crm.git
-   ```
-   
-2. Navigate to the project directory:
-   ```
-   cd laptop-rentals-crm
-   ```
-
-3. Install dependencies (make sure you have Node.js, Python, or any required frameworks based on the project):
-   ```
-   npm install
-   ```
-   or
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Set up your database (MySQL, MongoDB, etc.) and configure the connection in the environment configuration file.
-
-5. Start the application:
-   ```
-   npm start
-   ```
-   or
-   ```
-   python app.py
-   ```
-
-6. Access the application on:
-   ```
-   http://localhost:3000
-   ```
+For Preview youtube link: https://youtu.be/uXoJaYrx_14?si=setHPawX0XnNgR5B
 
 ## Usage
 
@@ -74,30 +37,10 @@ To run the CRM Application for Laptop Rentals, follow these steps:
 3. **Manage Orders**: Customers can track their orders, extend rental periods, or request support.
 4. **CRM Dashboard**: Admins can manage inventory, view performance analytics, and manage customer support and email campaigns.
 
-## Contributing
-
-We welcome contributions from the community! To contribute to the project:
-
-1. Fork the repository.
-2. Create a feature branch:
-   ```
-   git checkout -b feature-branch
-   ```
-3. Commit your changes:
-   ```
-   git commit -m 'Add new feature'
-   ```
-4. Push to the branch:
-   ```
-   git push origin feature-branch
-   ```
-5. Submit a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
----
 
-This README covers the necessary details for anyone looking to install, run, or contribute to the CRM application. You can modify or expand it based on the exact technologies and project structure.
