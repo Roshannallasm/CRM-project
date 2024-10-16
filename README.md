@@ -3,6 +3,8 @@ Here's a **README** file template for the CRM application for laptop rentals:
 
 ---
 
+![Uploading Screenshot 2024-10-16 122237.png…]()
+
 # CRM Application for Laptop Rentals
 
 ## Overview
